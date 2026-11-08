@@ -15,3 +15,7 @@ The other supplementary archives retain the rights and attribution documented in
 S3 includes the Apache Struts license and notice. S4 includes the Apache Commons FileUpload license and notice and the jsoup MIT license for retained upstream excerpts. Original model response bodies retain their recorded content and may quote upstream code. Consult the accompanying excerpt attribution files for their provenance.
 
 Third-party normative documents are identified through the catalog's source links. Separately obtained source checkouts and software dependencies follow their respective upstream terms.
+
+## Repository archive metadata
+
+The GitHub-to-Zenodo metadata uses the record-level Other (Not Open) license category for this mixed-rights collection and sets file access to open. Every deposited file is publicly accessible. The specific CC BY 4.0 grant and upstream licenses identified above govern the corresponding materials' reuse.

@@ -1,0 +1,28 @@
+{
+  "title": "ARGD research materials for requirement-linked neighboring-scenario validation of vulnerability patches",
+  "upload_type": "dataset",
+  "description": "Public companion materials S1 to S7 for ARGD: Requirement-Linked Neighboring-Scenario Validation for Vulnerability Patches, by Yi Lv and Cheng Wang. The archive contains source-catalog metadata, the four-row VUL4J-32 repair-coverage matrix, archived execution evidence, preserved evaluator records and an offline audit program, contextual observations and screening summaries, figure inputs and plotting code, and reproduction identities. Public copies normalize historical machine-local path strings and omit two internal review documents. Numerical results, testcase outcomes, assertions and Java/fixture sources are preserved. PUBLICATION_PROVENANCE.md and the package manifests document these transformations and the original evidence boundaries. CC BY 4.0 covers the author-created matrix and new repository documentation. Other archived materials retain their applicable rights and the supplied Apache and MIT notices.",
+  "creators": [
+    {
+      "name": "Lv, Yi",
+      "affiliation": "School of Computer Science and Technology, Tongji University, Shanghai 201804, China",
+      "orcid": "0009-0009-2973-620X"
+    },
+    {
+      "name": "Wang, Cheng",
+      "affiliation": "School of Computer Science and Technology, Tongji University, and Key Laboratory of Embedded System and Service Computing, Ministry of Education, Shanghai 201804, China"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-11-08",
+  "access_right": "open",
+  "license": "other-closed",
+  "keywords": [
+    "vulnerability patch validation",
+    "repair-coverage matrix",
+    "configuration-aware validation",
+    "VUL4J-32",
+    "ARGD"
+  ],
+  "notes": "Mixed rights apply as specified in https://github.com/estigeralynhbettin-eng/ARGD/blob/main/LICENSE.md. The record-level Other (Not Open) license category preserves the archived materials' separate reuse terms. All deposited files are publicly accessible. The author-created S2 matrix and new repository documentation are CC BY 4.0. Other archived records and third-party excerpts retain their applicable rights and notices. Funding was provided by the Discipline Breakthrough Pioneer Program of the Ministry of Education of China, Grant No. JYB2025XDXM122."
+}
