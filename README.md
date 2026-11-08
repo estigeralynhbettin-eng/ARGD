@@ -4,6 +4,8 @@ Research companion for **ARGD: Requirement-Linked Neighboring-Scenario Validatio
 
 Version 1.0.0 supplies the public companion to the R38 manuscript's Supplementary Materials S1 to S7. Each package records its sources, protocols and evidence boundaries.
 
+The archived release has the persistent identifier [10.5281/zenodo.24048682](https://doi.org/10.5281/zenodo.24048682).
+
 ## Materials
 
 | File | Contents |
@@ -46,7 +48,7 @@ The author-created S2 matrix and the new repository documentation use CC BY 4.0.
 
 ## Citation
 
-Use [CITATION.cff](CITATION.cff) for this repository's author and version metadata. The archived release's Zenodo record provides its version-specific DOI after the GitHub integration processes the release.
+Use [CITATION.cff](CITATION.cff) for this repository's author, version and DOI metadata. The archived v1.0.0 record corresponds to the GitHub v1.0.0 tag.
 
 ## Funding
 
