@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the archived version of these ARGD research materials using its Zenodo DOI."
+type: dataset
+title: "ARGD research materials for requirement-linked neighboring-scenario validation of vulnerability patches"
+authors:
+  - family-names: "Lv"
+    given-names: "Yi"
+    affiliation: "School of Computer Science and Technology, Tongji University"
+    orcid: "https://orcid.org/0009-0009-2973-620X"
+  - family-names: "Wang"
+    given-names: "Cheng"
+    affiliation: "School of Computer Science and Technology, Tongji University, and Key Laboratory of Embedded System and Service Computing, Ministry of Education"
+version: "1.0.0"
+date-released: "2026-11-08"
+url: "https://github.com/estigeralynhbettin-eng/ARGD"
+repository-code: "https://github.com/estigeralynhbettin-eng/ARGD"
+keywords:
+  - "vulnerability patch validation"
+  - "repair-coverage matrix"
+  - "configuration-aware validation"
+  - "VUL4J-32"
+  - "ARGD"
